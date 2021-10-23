@@ -1,0 +1,2 @@
+# Chat-App-using-JAVA
+Chat application  has been created with graphic user interface (GUI) capable of exchanging text chat between two computers over the network using java socket programming and JavaFX has been created. This application has separated server and client application and as socket programming require server to be present for client to connect, server application called ‘Server’ need to be run first before running ‘Client’.
